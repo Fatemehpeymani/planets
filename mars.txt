@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman 
 Mars is beautiful and hot
+=======
+Cold and dry, but everything is my favorite color 
+>>>>>>> parent of bb18193... Add concerns about effects of Mars' moons on Wolfman
